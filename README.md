@@ -1,5 +1,5 @@
 # datasets-for-VANET
-All datasets found here contain traces for VANET and each dataste contain a number of requests sent from different cars (senders) to one car (receiver) requesting a specific data transmission rate with a specific severity. Also, each request have a start and end time. Some datasets are generated based on simulations of real cities while others are generated based on specific parameters.
+All datasets found here contain traces for VANET and each dataste contains a number of requests sent from different cars (senders) to one car (receiver) requesting a specific data transmission rate with a specific severity. Also, each request have a start and end time. Some datasets are generated based on simulations of real cities while others are generated based on specific parameters.
 
 The datastes are:
 
